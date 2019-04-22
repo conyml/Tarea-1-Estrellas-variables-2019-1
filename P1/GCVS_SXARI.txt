@@ -1,0 +1,27 @@
+  The type of the variability: SXARI       
+alf   Scl |005836.4-292127. |SXARI     |  4.31   |(  0.04  u )|V |
+SX    Ari |031214.3+271525. |SXARI     |  5.75   |   5.81     |V |B9pSi
+V0396 Per |033208.6+480125. |SXARI     |  5.45   |   5.53     |V |B5Vp(Mn-He weak)
+DZ    Eri |043237.5-031234. |SXARI     |  5.73   |   5.82     |Y |B9III(He weak)
+V1156 Ori |052350.4+020456. |SXARI     |  7.89   |(  0.03    )|V |
+V1099 Ori |053213.1-013602. |SXARI     |  8.29   |(  0.03    )|V |
+V1101 Ori |053214.8-043106. |SXARI     |  8.14   |(  0.06    )|V |
+V1107 Ori |053326.1+003717. |SXARI     |  8.06   |(  0.02    )|V |
+V0359 Ori |053533.4-045015. |SXARI     |  7.25   |   7.36     |V |B2Vp(He-Sr)
+V1030 Ori |053847.2-023541. |SXARI     |  6.61   |   6.77     |V |B3Vp(He+)ea
+V0901 Ori |054056.4-013026. |SXARI     |  6.97   |   7.02     |V |B2Vp
+HK    CMa |064701.5-210055. |SXARI     |  6.00   |   6.05     |Hp|B7pHewSi
+OV    Gem |064949.8+161210. |SXARI     |  5.85   |(  0.10    )|V |
+V0343 Pup |073207.6-465633. |SXARI     |  8.8    |(  0.04    )|V |
+EI    Lyn |091348.2+431304. |SXARI     |  5.32   |(  0.03    )|V |B8IIIp
+V0761 Cen |142302.2-393043. |SXARI     |  4.32   |   4.38     |Hp|B2-7V-IIIpSiHewk
+V1019 Cen |145251.1-374811. |SXARI     |  4.96   |   4.98     |Hp|B7IIIpSiHe-w
+V0927 Sco |155439.5-251438. |SXARI     |  5.8    |(  0.03    )|V |B8IIIp(He weak)
+V0913 Sco |155834.9-244953. |SXARI     |  5.40   |   5.47     |V |B4IV-Vp(He weak)
+V0929 Sco |160606.4-233623. |SXARI     |  5.89   |   5.91     |V |
+V1051 Sco |161345.5-242520. |SXARI     |  6.40   |   6.43     |Hp|
+V0957 Sco |175213.7-344757. |SXARI     |  5.87   |(  0.05    )|V |
+V0692 CrA |181312.7-412010. |SXARI     |  5.46   |(  0.05    )|V |B3p(Si)
+V1671 Cyg |193532.0+311636. |SXARI     |  7.45   |   7.46     |V |B2Vp
+V1624 Cyg |200925.6+365023. |SXARI     |  4.91   |   4.97     |V |B3VeV
+V1357 Aql |201203.9+152128. |SXARI     |  7.83   |   7.89     |Hp|B5-6IIIp
